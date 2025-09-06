@@ -7,5 +7,6 @@ export const GlobalStyle=createGlobalStyle`
         box-sizing: border-box;
         background-color: black;
         font-family: 'Times New Roman', Times, serif;
+        color: white;
     }
 `;
