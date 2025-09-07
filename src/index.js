@@ -1,4 +1,5 @@
 export * from './App';
+export * from './components/organisms/ToggleTema';
 export * from './components/organisms/sidebar/Sidebar';
 export * from './components/templates/HomeTemplate';
 export * from './index';
@@ -9,3 +10,5 @@ export * from './store/ThemeStore';
 export * from './styles/Breakpoints';
 export * from './styles/GlobalStyles';
 export * from './styles/Themes';
+export * from './styles/Variables';
+export * from './utils/DataEstatica';
